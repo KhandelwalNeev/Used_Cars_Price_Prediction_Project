@@ -1,0 +1,210 @@
+car_id,region,price,year,manufacturer,model,cylinder,fuel,odometer,transmission,drive,types,core_rating,supporting_rating,interior_rating,exterior_rating,wear_rating
+26968362,Jaipur,430262,2018,Ford,Freestyle,3,petrol,59605,manual,FWD,crossover,9.6,9.5,8.2,7.8,8.1
+25429520,Gurgaon,3928758,2023,Mini,Countryman,4,petrol,11098,automatic,FWD,crossover,9.9,9.9,9.5,9.5,9.1
+26093659,Jaipur,1132994,2023,Honda,City,4,petrol,13090,manual,FWD,sedan,9.5,9.9,9.5,8.5,8.8
+27010476,Jaipur,362810,2015,Hyundai,Xcent,4,petrol,116973,manual,FWD,sedan,9.1,9,7.7,6.9,8.7
+26984580,Jaipur,271852,2015,Hyundai,i10,4,petrol,105912,manual,FWD,hatchback,9.2,9.1,7.5,7.1,8.1
+25150275,Jaipur,443548,2013,Volkswagen,Vento,4,diesel,96519,manual,FWD,sedan,9.1,8.3,7.9,7.6,9
+22477420,Jaipur,1289858,2015,Audi,A4,4,diesel,65106,automatic,FWD,sedan,9.7,9.5,8.4,7.8,6.7
+22384495,Jaipur,1393058,2015,Audi,A4,,diesel,69804,automatic,FWD,sedan,9.7,9.5,8.4,7.4,7.1
+26394206,Gurgaon,3282358,2021,BMW,3 Series,4,petrol,49944,automatic,RWD,sedan,9.6,9.6,8.9,8.8,7.5
+26770064,Jaipur,1535519,2024,Mahindra,Thar Roxx,4,petrol,7982,manual,RWD,suv,9.9,9.9,9.8,9.8,9.6
+27071057,Jaipur,328062,2018,Renault,Kwid,3,petrol,16506,manual,FWD,hatchback,9.9,9.6,8.7,8.6,9
+25896324,Gurgaon,2009758,2019,Mercedes-Benz,GLA,,petrol,23211,automatic,FWD,suv,9.8,9.7,8.7,8.6,7.6
+27047081,Gurgaon,3322758,2023,Audi,Q3,4,petrol,34186,automatic,,suv,9.9,9.8,9.3,8.9,7.5
+24460662,Gurgaon,1666358,2017,Audi,Q3,4,petrol,69888,automatic,FWD,suv,9.5,9.4,8.3,7.1,7.8
+25258905,Gurgaon,2009758,2016,BMW,5 Series,4,petrol,17909,automatic,RWD,sedan,9.9,9.7,9.1,8.8,8.1
+26405616,Jaipur,361788,2017,Ford,Figo Aspire,4,petrol,43066,manual,FWD,sedan,9.7,9.5,9.1,8.3,7.9
+25679016,Jaipur,483406,2017,Hyundai,Xcent,4,petrol,47598,manual,FWD,sedan,9.6,9,8.5,8.2,8
+25764778,Jaipur,406756,2012,Maruti Suzuki,Swift,4,petrol,68461,manual,FWD,hatchback,9.6,9.4,8.5,7.8,8.2
+26636014,Jaipur,1302287,2020,Hyundai,Creta,4,petrol,54463,automatic,FWD,suv,9.8,9.6,8.4,8.4,8.1
+26396372,Gurgaon,2211758,2017,BMW,X3,,petrol,58292,automatic,,suv,9.7,8.9,7.6,8.1,5.9
+26896687,Jaipur,883008,2022,Mahindra,XUV 300,3,petrol,24350,manual,FWD,suv,9.9,9.8,8.7,8.8,9.2
+25621080,Jaipur,1847138,2020,Audi,Q2,,petrol,27919,automatic,,suv,9.6,9.7,8.9,8.8,8.7
+26285108,Jaipur,1197955,2023,Toyota,Urban Cruiser Hyryder,4,petrol,54505,manual,FWD,suv,9.8,9.4,8.6,8.3,8.5
+25402840,Gurgaon,3928758,2024,Volvo,S90,4,petrol,47490,automatic,FWD,sedan,9.8,9.7,9.5,9.6,8.6
+26879863,Jaipur,1776962,2023,MG Motors,Hector Plus,4,petrol,21786,automatic,FWD,suv,9.9,9.7,9.3,9.3,8.7
+24125527,Gurgaon,1605758,2016,Mercedes-Benz,GLA,4,petrol,53462,automatic,FWD,suv,9.5,9.6,8.8,7.7,7.6
+26398350,Jaipur,482384,2016,Honda,City,4,petrol,111884,manual,FWD,sedan,8.3,8.2,7.2,6.7,7.8
+25904951,Jaipur,1704722,2023,Hyundai,Alcazar,4,petrol,37666,automatic,FWD,suv,9.8,9.6,9.2,8.7,8.2
+26538703,Jaipur,1440477,2022,Hyundai,Alcazar,4,petrol,48744,manual,FWD,suv,9.7,9.7,8.5,9,8.4
+25430676,Gurgaon,2009758,2018,Audi,A6,4,petrol,64236,automatic,FWD,sedan,9.5,9.5,8.3,8.1,7.4
+25220176,Gurgaon,1035108,2021,Jeep,Compass,4,petrol,74783,manual,FWD,suv,9.5,9.4,8.6,8.7,8.2
+23750761,Jaipur,1170000,2020,Kia,Seltos,4,petrol,111431,automatic,FWD,suv,9.6,9,8,8,8.1
+26666809,Jaipur,1618079,2022,Hyundai,Alcazar,4,petrol,36751,automatic,FWD,suv,9.9,9.7,8.9,8.1,8.7
+26106173,Jaipur,887096,2020,Kia,Seltos,4,petrol,77321,manual,FWD,suv,9.7,9.4,8.5,8,8
+26377228,Jaipur,877898,2016,Toyota,Innova,4,diesel,68636,manual,RWD,muv,9.7,9.5,8.7,7.9,8.5
+26452263,Jaipur,794000,2021,Honda,WR-V,4,diesel,56345,manual,FWD,suv,9.8,9.5,8.6,8.2,8.2
+26594467,Jaipur,1002582,2022,Hyundai,Creta,4,petrol,19237,manual,FWD,suv,9.9,9.9,9.4,9.3,9.2
+26517758,Jaipur,1002582,2021,Volkswagen,Taigun,3,petrol,59721,manual,FWD,suv,9.8,9.6,8.2,9,8.1
+23445729,Jaipur,1743938,2018,Jaguar,XE,4,petrol,61379,automatic,RWD,sedan,9.8,9.6,8.8,8.4,8.4
+26653415,Jaipur,1072151,2019,Kia,Seltos,4,diesel,121071,automatic,FWD,suv,9.4,8.8,7.9,8.2,8.6
+22180081,Gurgaon,1807758,2016,BMW,3 Series,4,petrol,45829,automatic,RWD,sedan,9.6,9.7,8.7,8.3,8.1
+25866091,Gurgaon,3080358,2018,Mercedes-Benz,E-Class,,petrol,53096,automatic,,sedan,9.6,9.3,8.5,8.4,7.6
+26427718,Jaipur,897316,2022,Hyundai,Venue,4,diesel,86575,manual,FWD,suv,9.4,8.9,8.1,8.4,9.2
+26428632,Jaipur,1314671,2024,Volkswagen,Taigun,3,petrol,4283,manual,FWD,suv,10,9.9,9.8,9.7,9.7
+26375674,Jaipur,778764,2022,Tata,Nexon,3,cng,59306,manual,,suv,9.7,9.6,8.5,8.8,8.3
+26655432,Jaipur,654080,2020,Maruti Suzuki,Ciaz,4,petrol,94996,manual,FWD,sedan,9.4,9.3,8.2,7.5,8.9
+26299250,Jaipur,458878,2020,Renault,Triber,3,cng,98568,manual,FWD,muv,9.6,9.3,7.9,7.8,8.1
+24371259,Jaipur,472000,2018,Toyota,Etios Cross,4,petrol,63842,manual,FWD,crossover,9.8,9.6,9.1,8.6,8.5
+25875637,Jaipur,831908,2022,Tata,Nexon,3,petrol,40364,manual,FWD,suv,9.8,9.7,8.6,8.9,8.6
+25852205,Jaipur,1176000,2022,Maruti Suzuki,XL6,4,petrol,56174,automatic,FWD,muv,9.4,9.6,8.8,8.8,8.7
+22375514,Jaipur,535000,2014,Honda,City,4,petrol,63504,automatic,FWD,sedan,9.7,9.2,8.4,7.8,7.2
+26606870,Jaipur,806000,2023,Kia,Sonet,3,petrol,36725,manual,FWD,suv,9.9,9.7,9,9,8.7
+21586157,Jaipur,1123000,2023,Kia,Sonet,3,petrol,44965,automatic,FWD,suv,9.8,9.6,8.7,8.4,8.1
+25283710,Jaipur,845000,2022,Tata,Nexon,3,petrol,41218,manual,FWD,suv,9.7,9.7,9.3,8.6,8.5
+25484922,Jaipur,816000,2022,Tata,Nexon,3,petrol,37852,manual,FWD,suv,9.7,9.7,9.2,8.7,9
+25783230,Jaipur,933000,2022,Maruti Suzuki,Vitara Brezza,4,petrol,52419,automatic,FWD,suv,9.7,9.6,8.6,8.5,8.7
+25515951,Jaipur,515088,2019,Honda,Amaze,4,petrol,76477,manual,FWD,sedan,9.5,9.4,7.5,7.8,8.2
+26303145,Jaipur,757001,2020,Hyundai,i20,3,petrol,23670,automatic,FWD,hatchback,9.9,9.8,9.3,9.2,8.5
+25474912,Gurgaon,2272358,2020,BMW,X1,4,petrol,43114,automatic,FWD,suv,9.8,9.7,9.1,9.1,7.8
+26741339,Jaipur,384272,2017,Tata,Tiago,3,petrol,50602,manual,FWD,hatchback,9.7,9.6,9,7.8,8.3
+26175274,Jaipur,1528197,2022,Tata,Harrier,4,diesel,38559,manual,FWD,suv,9.8,9.7,8.9,8.5,8.2
+26222723,Jaipur,772000,2020,Honda,City,4,petrol,56997,manual,FWD,sedan,9.6,9.6,8.6,7.8,8.4
+26547834,Jaipur,666344,2020,Mahindra,XUV 300,3,petrol,119352,manual,FWD,suv,9.6,9.2,7.9,7.8,8.5
+26125672,Jaipur,273000,2012,Maruti Suzuki,Wagon R 1.0,3,petrol,48861,manual,,hatchback,9.5,9.6,8.5,7.4,8.4
+26304120,Jaipur,468076,2018,Honda,Amaze,4,petrol,68109,manual,FWD,sedan,9.6,9.5,9,8.3,8.1
+25740046,Jaipur,1087000,2022,Hyundai,Creta,4,petrol,36182,manual,FWD,suv,9.9,9.8,8.7,8.9,8.8
+26660685,Jaipur,607068,2023,Tata,Punch,3,petrol,74134,manual,FWD,suv,9.7,9.1,8.5,8.7,8.6
+26241499,Jaipur,291270,2014,Honda,Brio,4,petrol,74491,manual,FWD,hatchback,9.6,9.4,8,7.5,7.3
+26409004,Jaipur,413910,2016,Honda,Amaze,4,petrol,70264,manual,FWD,sedan,9.2,9.2,7.9,7.4,7.3
+25762504,Jaipur,535000,2017,Honda,City,4,petrol,79988,manual,FWD,sedan,9.7,9.4,8.1,7.7,8.5
+23631735,Jaipur,495000,2018,Honda,Jazz,4,petrol,25258,manual,FWD,hatchback,9.9,9.7,8.4,7.5,9.2
+26547674,Jaipur,632618,2021,Toyota,Glanza,4,petrol,25656,manual,FWD,hatchback,9.9,9.8,8.8,8.8,9.3
+26274134,Jaipur,562100,2021,Hyundai,Grand i10 Nios,4,petrol,47962,manual,FWD,hatchback,9.7,9.6,8.6,7.6,7.8
+26398771,Jaipur,622000,2021,Tata,Punch,3,petrol,23950,manual,FWD,suv,9.9,9.8,9.2,9.4,8.9
+27020775,Jaipur,255500,2013,Hyundai,Eon,3,petrol,55771,manual,FWD,hatchback,9.6,9.6,8,7.8,8.2
+26851471,Jaipur,320908,2016,Hyundai,i10,4,petrol,112820,manual,FWD,hatchback,9.1,9,6.8,7.6,8.3
+26236178,Jaipur,649000,2023,Hyundai,Grand i10 Nios,4,petrol,14856,manual,FWD,hatchback,9.9,9.9,9.1,8.8,9.1
+26570592,Jaipur,654080,2018,Ford,EcoSport,4,diesel,94641,manual,FWD,suv,9.7,9.4,8.4,8.2,8.5
+26611568,Jaipur,339304,2015,Hyundai,Xcent,4,petrol,54864,manual,FWD,sedan,9.8,9.6,8,8.3,8.2
+25578077,Jaipur,682696,2024,Renault,Kiger,3,petrol,15784,manual,FWD,suv,9.8,9.9,9.4,9.1,9.1
+22066354,Gurgaon,3019758,2018,Mercedes-Benz,E-Class,,petrol,15983,automatic,,sedan,9.6,9.8,8.9,8.8,8.3
+25763695,Jaipur,406000,2021,Hyundai,Santro,4,petrol,32136,manual,FWD,hatchback,9.8,9.8,8.9,8.7,8.5
+22936553,Jaipur,657000,2017,Honda,City,4,petrol,69060,automatic,FWD,sedan,9.6,9.5,7.5,7.8,8.1
+26672667,Jaipur,529396,2019,Maruti Suzuki,Baleno,4,petrol,44410,manual,FWD,hatchback,9.7,9.7,8.4,8.5,8.5
+23152633,Jaipur,350000,2017,Chevrolet,Beat,3,diesel,89439,manual,FWD,hatchback,8.8,9,7.5,7.7,8.3
+24555735,Jaipur,1393955,2022,Hyundai,Creta,4,petrol,44138,automatic,FWD,suv,9.8,9.7,9.2,8.8,8.2
+26660703,Jaipur,267764,2015,Maruti Suzuki,Alto 800,3,petrol,22364,manual,FWD,hatchback,9.9,8.5,8.4,7.9,8.9
+24426468,Jaipur,1475001,2022,Hyundai,Creta,4,petrol,18978,automatic,FWD,suv,9.9,9.9,8.8,9.3,8.9
+23922659,Jaipur,495000,2016,Honda,City,4,petrol,80478,automatic,FWD,sedan,9.4,8.9,8.3,7.7,8.5
+26303702,Jaipur,249368,2013,Maruti Suzuki,Alto K10,3,petrol,50528,manual,FWD,hatchback,9.6,9.3,7.3,7.5,8
+26225781,Jaipur,325000,2013,Maruti Suzuki,Swift,4,petrol,84165,manual,FWD,hatchback,9.7,8.5,8.2,7.8,8.3
+26431619,Jaipur,673498,2019,Maruti Suzuki,Ciaz,4,petrol,74181,automatic,FWD,sedan,9.7,9.4,8.3,7.9,8.2
+26500076,Jaipur,707224,2020,Ford,EcoSport,3,petrol,55096,manual,FWD,suv,9.7,9.4,9,8.9,8.5
+26534011,Jaipur,489538,2017,Maruti Suzuki,Swift,4,petrol,50779,manual,FWD,hatchback,9.7,9.7,8.4,8,8.3
+24518535,Jaipur,1175001,2024,Tata,Curvv,3,petrol,6529,manual,FWD,suv,10,10,9.9,9.1,9.6
+24341695,Jaipur,429000,2019,Tata,Tiago,3,petrol,95850,manual,FWD,hatchback,9.6,9.3,8.1,7.7,8.5
+25929661,Jaipur,975000,2023,Kia,Sonet,4,diesel,44541,manual,FWD,suv,9.8,9.7,9.4,9.1,8.6
+26315066,Jaipur,263676,2014,Maruti Suzuki,Alto 800,3,petrol,22583,manual,FWD,hatchback,9.8,8.6,8.5,7.8,8.6
+26701374,Jaipur,601958,2013,Toyota,Innova,4,diesel,102852,manual,RWD,muv,9.2,8.9,6.8,7.1,8
+24566697,Jaipur,1160000,2023,Hyundai,Creta,4,petrol,71349,manual,FWD,suv,9.5,9.5,8.6,8.7,8.7
+24110805,Jaipur,449000,2015,Hyundai,Elite i20,4,petrol,50938,manual,FWD,hatchback,9.7,9.6,8.2,8,9
+26815435,Jaipur,324996,2015,Maruti Suzuki,Alto K10,3,petrol,27579,manual,FWD,hatchback,9.9,9.8,8.1,8,8.6
+22222382,Jaipur,360000,2014,Hyundai,Grand i10,4,petrol,54236,manual,FWD,hatchback,9.7,9,7.9,7.8,8.6
+25610913,Jaipur,295358,2013,Honda,Amaze,4,petrol,103422,manual,FWD,sedan,9.5,9.1,7.4,7.5,7.7
+22241040,Jaipur,1126999,2021,Kia,Seltos,4,petrol,44418,automatic,FWD,suv,9.7,9.6,9.1,8.6,8
+26446312,Jaipur,828000,2024,Maruti Suzuki,Swift,4,petrol,6820,manual,FWD,hatchback,9.9,9.9,9.5,9.3,9.6
+26426355,Jaipur,242214,2015,Hyundai,Eon,3,petrol,75281,manual,,hatchback,9.3,8.6,8.4,8.1,8
+22044160,Jaipur,380000,2016,Honda,Jazz,4,petrol,108265,manual,FWD,hatchback,9.6,8.9,8.4,7.8,7.8
+24503600,Jaipur,1156000,2023,Hyundai,Creta,4,petrol,48769,manual,FWD,suv,9.8,9.7,9,8.8,8.5
+24300993,Jaipur,995000,2020,Hyundai,Verna,4,diesel,96850,automatic,FWD,sedan,9.5,9.2,8.3,8.1,8.5
+22716314,Jaipur,1048955,2021,Maruti Suzuki,XL6,4,petrol,44583,automatic,FWD,muv,9.8,9,8.9,8.8,7.5
+23815817,Jaipur,968000,2024,Maruti Suzuki,Ciaz,4,petrol,15342,manual,FWD,sedan,9.8,9.9,9,9.3,9.4
+22694529,Jaipur,749000,2020,Skoda,Rapid,3,petrol,35291,manual,FWD,sedan,9.9,9.8,9.2,8.8,8.8
+21222058,Jaipur,542000,2015,Honda,City,4,petrol,92768,automatic,FWD,sedan,9.5,9,7.6,7.4,8.1
+26572517,Jaipur,356678,2022,Renault,Kwid,3,petrol,26427,manual,FWD,hatchback,9.6,9.5,9.3,8.8,8.7
+25200955,Jaipur,662000,2020,Ford,EcoSport,3,petrol,32263,manual,FWD,suv,9.5,9.8,8.1,8.8,8.9
+24839933,Jaipur,762000,2020,Kia,Sonet,3,petrol,68909,manual,FWD,suv,9.4,9.4,8.7,8.6,8.7
+23925477,Jaipur,360000,2015,Hyundai,Grand i10,4,petrol,71059,manual,FWD,hatchback,9.4,8.7,8.1,7.5,9
+24210571,Jaipur,930000,2023,Maruti Suzuki,Fronx,3,petrol,59727,automatic,FWD,suv,9.7,9.5,8.3,8.7,7.4
+25711514,Jaipur,1530000,2022,Volkswagen,Virtus,4,petrol,23012,automatic,FWD,sedan,9.8,9.8,8.9,9,8.9
+22426171,Jaipur,990000,2022,Maruti Suzuki,Brezza,4,petrol,40808,manual,FWD,suv,9.8,9.7,9.4,9.5,8.6
+24557705,Jaipur,1069955,2022,Maruti Suzuki,XL6,4,petrol,27706,manual,FWD,muv,9.9,9.8,9.2,8.9,9.1
+24201480,Jaipur,1087001,2021,Mahindra,Thar,4,petrol,97340,automatic,4WD,suv,9.7,9.4,7.8,8,7.9
+23304546,Jaipur,1475001,2021,Mahindra,XUV700,4,petrol,59048,automatic,FWD,suv,9.5,9.5,8.8,8.1,8.1
+23473291,Jaipur,1239000,2022,Maruti Suzuki,Grand Vitara,4,petrol,31042,manual,FWD,suv,9.7,9.8,8.8,8.9,8.9
+24587352,Jaipur,1053000,2022,Maruti Suzuki,XL6,4,petrol,26425,manual,FWD,muv,9.8,8.9,9.4,8.9,9.2
+24956025,Jaipur,449000,2020,Ford,Figo,3,petrol,35160,manual,FWD,hatchback,9.5,9.8,8.5,8.8,8.9
+25620606,Jaipur,513000,2018,Hyundai,Elite i20,4,petrol,34041,manual,FWD,hatchback,9.7,9.8,8.1,8.6,9
+24066742,Jaipur,1220999,2020,Tata,Harrier,4,diesel,72716,automatic,FWD,suv,9.7,9.5,8.7,8.9,8
+23884776,Jaipur,1152000,2022,Hyundai,Creta,4,petrol,45471,manual,FWD,suv,9.8,9.6,8.8,8.6,8.7
+23723529,Jaipur,720000,2022,Tata,Nexon,3,petrol,48933,manual,FWD,suv,9.8,9.6,8,8.4,8.6
+26870423,Jaipur,294336,2017,Renault,Kwid,3,petrol,32090,manual,FWD,hatchback,9.9,9.6,8.9,7.9,9.1
+21665115,Jaipur,780000,2023,Tata,Altroz,4,diesel,38902,manual,FWD,hatchback,9.8,9.7,9.6,9.3,8.8
+23483475,Jaipur,449000,2019,Ford,Figo,4,petrol,29842,manual,FWD,hatchback,9.6,9.7,8.9,8.7,8.6
+20338278,Jaipur,498000,2021,Tata,Tiago NRG,3,petrol,33097,manual,FWD,hatchback,9.9,9.8,9,8.3,8.8
+26311852,Jaipur,678608,2016,Maruti Suzuki,Vitara Brezza,4,diesel,108695,manual,FWD,suv,9.5,8.9,7.3,7.3,8
+21967392,Jaipur,1089001,2023,Volkswagen,Virtus,3,petrol,30215,manual,FWD,sedan,9.9,9.8,9.5,8.7,9
+22927993,Jaipur,995000,2023,Skoda,Kushaq,3,petrol,37115,manual,FWD,suv,9.9,9.7,9.1,9,8.1
+22526141,Jaipur,552000,2020,Tata,Altroz,3,petrol,44094,manual,FWD,hatchback,9.3,9.6,8.4,8.5,8.4
+25360847,Jaipur,1174999,2021,Hyundai,Verna,4,diesel,64198,automatic,FWD,sedan,9.3,9.5,8.1,7.9,8.1
+22064757,Jaipur,725000,2018,Honda,City,4,petrol,46723,automatic,FWD,sedan,9.6,9.5,8.8,7.9,8
+26235561,Jaipur,591738,2015,Maruti Suzuki,Ertiga,4,diesel,51540,manual,FWD,muv,9.3,9.2,8.2,8,8.5
+22816085,Jaipur,720000,2021,Hyundai,i20,3,petrol,57638,automatic,FWD,hatchback,9.5,9.5,9.1,8.5,8.3
+24192019,Jaipur,379000,2018,Toyota,Etios Liva,4,petrol,102412,manual,FWD,hatchback,9,8.8,8.3,8,8.4
+25664002,Jaipur,575000,2016,Hyundai,Fluidic Verna 4S,4,diesel,84500,automatic,FWD,sedan,9.4,8.7,7.9,8,8.8
+23579072,Jaipur,225000,2012,Hyundai,i10,4,petrol,77981,manual,FWD,hatchback,9.6,9.3,7.9,6.8,8.8
+24379841,Jaipur,423000,2014,Maruti Suzuki,Swift Dzire,4,petrol,59428,manual,FWD,sedan,9.7,9.2,8.4,7.9,8.4
+20151299,Jaipur,901000,2023,Hyundai,Venue,4,petrol,27357,manual,FWD,suv,9.9,9.8,9.6,9.4,9.1
+22218500,Jaipur,425000,2016,Hyundai,Elite i20,4,petrol,92448,manual,FWD,hatchback,9.6,9.2,7.4,7.8,8.5
+23353013,Jaipur,636992,2019,Ford,EcoSport,3,petrol,61340,manual,FWD,suv,9.5,9.5,8.5,8.4,8.2
+25036238,Jaipur,606000,2023,Tata,Punch,3,petrol,14212,manual,FWD,suv,9.7,9.9,9.3,9.2,9.3
+19840734,Jaipur,1210001,2023,Volkswagen,Virtus,3,petrol,21244,manual,FWD,sedan,9.9,9.9,9.5,9,9.1
+23508169,Jaipur,822000,2023,Hyundai,Exter,4,petrol,25954,automatic,FWD,suv,9.9,9.7,9.2,9.2,8.3
+20461252,Jaipur,549000,2019,Honda,City,4,petrol,124610,automatic,FWD,sedan,8.7,9.1,7.3,7.6,7
+18127614,Jaipur,925000,2022,Hyundai,Venue,3,petrol,10846,manual,FWD,suv,9.9,9.9,9.1,9.3,9.4
+23097947,Jaipur,389000,2016,Honda,Amaze,4,petrol,50376,manual,FWD,sedan,9.8,9.7,8.9,7.8,8.9
+25390748,Jaipur,261000,2012,Honda,Brio,4,petrol,31581,manual,,hatchback,9.8,9.6,8.4,8.1,8.5
+20839607,Jaipur,971000,2022,Skoda,Kushaq,3,petrol,27701,manual,FWD,suv,9.9,9.8,9.5,9.5,9
+23327055,Jaipur,574000,2020,Hyundai,Elite i20,4,petrol,62659,manual,FWD,hatchback,9.8,9.5,8.7,7.9,8.7
+20506882,Jaipur,1270000,2021,Kia,Seltos,4,petrol,73233,automatic,FWD,suv,9.7,9.5,8.7,8.6,7.9
+22868579,Jaipur,509000,2023,Tata,Tiago,3,petrol,33657,manual,FWD,hatchback,9.8,9.8,8.9,9,8.7
+22318210,Jaipur,610000,2018,Maruti Suzuki,Dzire,4,petrol,38299,automatic,FWD,sedan,9,9.5,8.5,8.2,8.6
+21443084,Jaipur,501000,2019,Hyundai,Elite i20,4,petrol,60397,manual,FWD,hatchback,9.8,9.6,8.1,8.2,8.7
+22743819,Jaipur,308000,2015,Hyundai,Grand i10,4,petrol,82488,manual,FWD,hatchback,9.2,9.3,7.8,7.7,8.1
+24256516,Jaipur,947000,2021,Hyundai,Verna,4,petrol,48694,manual,FWD,sedan,9.8,9.7,8.2,8.7,8.7
+13835262,Jaipur,1101000,2017,Skoda,Octavia,4,diesel,96976,automatic,FWD,sedan,9.6,9,8,7.2,8.2
+20853457,Jaipur,384000,2016,Volkswagen,Polo,3,petrol,73492,manual,FWD,hatchback,9.7,9.5,8.6,7.7,7.7
+19890540,Jaipur,840000,2021,Hyundai,Venue,4,diesel,67082,manual,FWD,suv,9.7,9.4,9.2,8.6,8.6
+16139993,Jaipur,346000,2014,Honda,Amaze,4,petrol,82478,manual,FWD,sedan,9.7,9.2,8.2,7.4,8.4
+22399322,Jaipur,1595000,2021,Mahindra,XUV700,4,diesel,55706,automatic,FWD,suv,9.8,9.5,8.5,8.5,7.5
+22194173,Jaipur,238000,2015,Maruti Suzuki,Alto 800,3,petrol,42599,manual,FWD,hatchback,9.5,9.7,8.4,8.5,8.6
+19579931,Jaipur,1142000,2021,Mahindra,Thar,4,petrol,38150,automatic,4WD,suv,9.7,9.7,9.1,9,7.9
+20431482,Jaipur,849000,2019,Hyundai,Verna,4,petrol,58886,automatic,FWD,sedan,9.8,7.5,8.5,8.5,8
+22531177,Jaipur,472000,2017,Maruti Suzuki,Dzire,4,petrol,96393,automatic,FWD,sedan,9.1,9.4,7.9,7.9,7.4
+19217990,Jaipur,495000,2012,Toyota,Innova,,diesel,124705,manual,RWD,muv,9.1,8.1,7.7,7.5,7.8
+23951700,Jaipur,1675000,2022,Mahindra,Scorpio N,4,petrol,60466,automatic,RWD,suv,9.7,9.4,9,8.8,8.4
+17693475,Jaipur,1145000,2021,Mahindra,Thar,4,petrol,34436,automatic,4WD,suv,9.9,9.8,9.3,7.8,8.4
+25267141,Jaipur,533484,2015,Honda,City,4,petrol,68584,manual,FWD,sedan,9.3,9.2,7.8,7.1,7.7
+25881109,Jaipur,1166001,2022,Kia,Sonet,4,diesel,59789,automatic,FWD,suv,9.7,9.6,8.9,8.8,8
+25550371,Jaipur,2667000,2023,Skoda,Superb,4,petrol,42912,automatic,FWD,sedan,9.6,9.7,8.8,8.6,8.8
+25290983,Gurgaon,1464358,2022,Jeep,Compass,4,petrol,60511,automatic,FWD,suv,9.4,9.6,8.6,8,6.8
+25934348,Gurgaon,1504758,2015,Mercedes-Benz,C-Class,4,petrol,27791,automatic,RWD,sedan,9.6,9.6,9.1,8.5,9.1
+26781165,Jaipur,1261007,2024,Kia,Seltos,4,diesel,46259,manual,FWD,suv,9.8,9.7,8.8,9,8.2
+21893411,Gurgaon,890000,2014,Audi,A4,,petrol,62200,automatic,FWD,sedan,9.5,9.6,8.7,7,7.2
+26909949,Jaipur,621376,2023,Nissan,Magnite,3,petrol,18030,manual,FWD,suv,9.9,9.9,9.6,9,8.8
+20821255,Gurgaon,1605758,2017,Jaguar,XE,4,petrol,43070,automatic,RWD,sedan,9.8,9.6,9.1,8.4,7.2
+25960901,Jaipur,228928,2016,Renault,Kwid,3,petrol,95670,manual,FWD,hatchback,8.9,9.3,7.5,7.5,8.6
+26423740,Jaipur,364854,2017,Tata,Tiago,3,petrol,73291,manual,FWD,hatchback,9.6,8.9,7.8,7.3,7.7
+26225787,Jaipur,501000,2016,Honda,City,4,petrol,49035,manual,FWD,sedan,9.8,9.7,8.9,8.4,8.5
+22978810,Gurgaon,3221758,2023,Audi,Q3,4,petrol,33324,automatic,,suv,9.9,9.8,9.6,9.5,8.8
+22537906,Jaipur,656000,2023,Renault,Kiger,3,petrol,35367,automatic,FWD,suv,9.4,9.8,8,8.6,8.1
+26287730,Jaipur,480340,2019,Renault,Triber,3,petrol,56440,manual,FWD,muv,9.7,9.5,8.7,8.3,7.9
+26837873,Jaipur,385294,2019,Maruti Suzuki,Alto K10,3,petrol,6268,manual,FWD,hatchback,9.8,10,8.9,8.9,9.5
+21105664,Jaipur,1048999,2022,Honda,City,4,petrol,21829,manual,FWD,sedan,9.9,9.9,9.2,9.4,9.5
+25818972,Jaipur,478000,2021,Maruti Suzuki,Wagon R 1.0,3,cng,66851,manual,FWD,hatchback,9.5,9.2,8.3,8.3,8.2
+23677230,Jaipur,487000,2018,Hyundai,Xcent,3,diesel,74810,manual,FWD,sedan,9.1,9.4,8.5,7.8,8.3
+26613248,Jaipur,411000,2018,Tata,Tiago,3,petrol,29088,manual,FWD,hatchback,9.7,9.8,8.9,8.6,8.6
+23910780,Jaipur,725000,2022,Tata,Nexon,3,cng,44568,manual,,suv,9.7,9.7,8.8,8.9,8.3
+26377253,Jaipur,239148,2016,Renault,Kwid,3,petrol,65489,manual,FWD,hatchback,9.7,9.4,8.2,7.6,8.6
+24271861,Jaipur,839000,2023,Maruti Suzuki,Ciaz,4,petrol,25329,manual,FWD,sedan,9.7,9.8,9.6,9.1,9.2
+25656564,Jaipur,533000,2024,Maruti Suzuki,Celerio,3,petrol,12681,automatic,FWD,hatchback,9.9,9.9,9.5,9.6,9.3
+23108984,Jaipur,840000,2021,Hyundai,Venue,3,petrol,37099,automatic,FWD,suv,9.9,9.8,8.6,8.8,8.3
+22557950,Jaipur,375000,2017,Maruti Suzuki,Wagon R 1.0,3,petrol,44552,automatic,FWD,hatchback,9.8,9.2,8.5,7.9,8.5
+25660672,Jaipur,1326001,2023,Mahindra,Thar,4,diesel,43877,manual,4WD,suv,9.8,9.7,9.4,9.2,8.8
+22094968,Jaipur,729000,2018,Honda,City,4,petrol,47204,automatic,FWD,sedan,9.8,9.6,8.9,8.1,7.6
+22487875,Jaipur,382000,2015,Hyundai,Grand i10,4,petrol,47790,manual,FWD,hatchback,9.8,8.8,8.5,7.5,8.7
+23234894,Jaipur,995000,2023,Maruti Suzuki,Brezza,4,petrol,56345,manual,FWD,suv,9.6,9.5,8.9,8.4,8.8
+26373657,Jaipur,674000,2022,Maruti Suzuki,Swift,4,petrol,30691,automatic,FWD,hatchback,9.9,9.8,8.9,8.9,8.5
+20086251,Jaipur,568000,2024,Maruti Suzuki,Celerio,3,petrol,14076,automatic,FWD,hatchback,9.9,9,9.8,9.2,9.2
